@@ -16,3 +16,5 @@ Ovdje će biti upute vezane uz objavu sadržaja  repozitorija na webu.
 # Test datoteka
 
 [Poveznica na test.md datoteku](test.md)
+
+Uživajte u našoj stranici!!
