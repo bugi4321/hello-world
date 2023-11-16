@@ -17,4 +17,6 @@ Ovdje će biti upute vezane uz objavu sadržaja  repozitorija na webu.
 
 [Poveznica na test.md datoteku](test.md)
 
-Uživajte u našoj stranici!!
+# Ovo je naša prva GitHub stranica
+
+Uživajte u našoj stranici!! 
